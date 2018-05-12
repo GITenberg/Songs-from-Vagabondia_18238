@@ -20,6 +20,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Richard_Hovey
 description: '[V. 2.] More songs from Vagabondia (viii, 72, [10] p.); c1896. First
   edition (750 copies) October, 1896 ... Fifth edition (750 copies) November 1903.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18238#Songs-from-Vagabondia
 gutenberg_issued: '2006-04-23'
 gutenberg_type: Text
 identifiers:
