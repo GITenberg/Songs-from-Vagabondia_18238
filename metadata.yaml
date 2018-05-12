@@ -1,0 +1,35 @@
+_repo: Songs-from-Vagabondia_18238
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Carman, Bliss
+    alias: Carman, William Bliss
+    birthdate: 1861
+    deathdate: 1929
+    gutenberg_agent_id: '4343'
+    url: http://www.gutenberg.org/2009/agents/4343
+    wikipedia: http://en.wikipedia.org/wiki/Bliss_Carman
+  - agent_name: Hovey, Richard
+    birthdate: 1864
+    deathdate: 1900
+    gutenberg_agent_id: '5003'
+    url: http://www.gutenberg.org/2009/agents/5003
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Hovey
+description: '[V. 2.] More songs from Vagabondia (viii, 72, [10] p.); c1896. First
+  edition (750 copies) October, 1896 ... Fifth edition (750 copies) November 1903.'
+gutenberg_issued: '2006-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: Songs from Vagabondia
+url: http://www.gutenberg.org/ebooks/18238
